@@ -83,7 +83,7 @@ const GlobeIcon = () => (
 const heroSlides = [
   {
     bgImg: "https://cms-static-prod.ros.rockstargames.com/images/18izrhn535ym/4cAVJsgRRfJ4jl9bmWhT9s/5a3fcf990f08baf0dc669a53694ce274/4cAVJsgRRfJ4jl9bmWhT9s.jpg?w=1920&fm=webp",
-    logoImg: "./Rockstar Games_files/vH3cmDeyYwZAfOSRrFzF7.svg",
+    logoImg: "/Rockstar Games_files/vH3cmDeyYwZAfOSRrFzF7.svg",
     logoAlt: "Grand Theft Auto 6 logo.",
     logoWidth: 240,
     logoHeight: 177,
@@ -94,7 +94,7 @@ const heroSlides = [
   },
   {
     bgImg: "https://cms-static-prod.ros.rockstargames.com/images/18izrhn535ym/1AxmIoWczLqNzMhsyDx2i7/be44eba2ab00dbd54c1cc4b951ca20ca/1AxmIoWczLqNzMhsyDx2i7.jpg?w=1920&fm=webp",
-    logoImg: "./Rockstar Games_files/6FHkBBzaWABX2R5OwR39In.svg",
+    logoImg: "/Rockstar Games_files/6FHkBBzaWABX2R5OwR39In.svg",
     logoAlt: "GTA Online: A Safehouse in the Hills logo.",
     logoWidth: 571,
     logoHeight: 524,
@@ -105,7 +105,7 @@ const heroSlides = [
   },
   {
     bgImg: "https://cms-static-prod.ros.rockstargames.com/images/18izrhn535ym/5z39ZahfJDKgPfTgd6H8Hp/7f93f8a6d1be0d8f30bd82d9b49319c7/5z39ZahfJDKgPfTgd6H8Hp.jpg?w=1920&fm=webp",
-    logoImg: "./Rockstar Games_files/2IH9uS8W9A8OQTKHzxBzqd.svg",
+    logoImg: "/Rockstar Games_files/2IH9uS8W9A8OQTKHzxBzqd.svg",
     logoAlt: "Grand Theft Auto 5 logo.",
     logoWidth: 312,
     logoHeight: 271,
@@ -119,35 +119,35 @@ const heroSlides = [
 const newsArticles = [
   {
     href: "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026",
-    img: "./Rockstar Games_files/c8c033070a0bfb2e3ec6ae7ff047ebe8ec551326.jpg",
+    img: "/Rockstar Games_files/c8c033070a0bfb2e3ec6ae7ff047ebe8ec551326.jpg",
     category: "Grand Theft Auto VI",
     title: "Grand Theft Auto VI is Now Set to Launch November 19, 2026",
     date: "November 6, 2025",
   },
   {
     href: "https://www.rockstargames.com/newswire/article/75949277o5977k/bikers-earn-double-on-counterfeit-cash-and-completing-street-dealer-sa",
-    img: "./Rockstar Games_files/0e8cfff3e1b55e71a6f514df01b784d17b831cf4.jpg",
+    img: "/Rockstar Games_files/0e8cfff3e1b55e71a6f514df01b784d17b831cf4.jpg",
     category: "GTA Online",
     title: "Bikers Earn Double on Counterfeit Cash and Completing Street Dealer Sales",
     date: "February 19, 2026",
   },
   {
     href: "https://www.rockstargames.com/newswire/article/4k1255o1295k32/cozy-up-in-the-new-grotti-itali-classic",
-    img: "./Rockstar Games_files/0c6ba435b3679a3716686de1ebaf2f5de0a29e37.jpg",
+    img: "/Rockstar Games_files/0c6ba435b3679a3716686de1ebaf2f5de0a29e37.jpg",
     category: "GTA Online",
     title: "Cozy Up in the New Grotti Itali Classic",
     date: "February 12, 2026",
   },
   {
     href: "https://www.rockstargames.com/newswire/article/9k2493k3k115o8/get-a-free-dewbauchee-champion-supercar-and-early-access-to-the-grotti",
-    img: "./Rockstar Games_files/8a23462ee32ed28d07f4d4f99ed7b3582d36c0c9.jpg",
+    img: "/Rockstar Games_files/8a23462ee32ed28d07f4d4f99ed7b3582d36c0c9.jpg",
     category: "GTA Online",
     title: "Get a Free Dewbauchee Champion Supercar and Early Access to the Grotti Itali Classic with GTA+",
     date: "February 5, 2026",
   },
   {
     href: "https://www.rockstargames.com/newswire/article/75318ak27ok97k/crime-pays-in-red-dead-online-with-triple-rewards-on-blood-money-oppor",
-    img: "./Rockstar Games_files/5af8d40d049db462dc9516820bc14a9f4e530ad0.jpg",
+    img: "/Rockstar Games_files/5af8d40d049db462dc9516820bc14a9f4e530ad0.jpg",
     category: "Red Dead Online",
     title: "Crime Pays in Red Dead Online with Triple Rewards on Blood Money Opportunities",
     date: "February 3, 2026",
@@ -157,28 +157,28 @@ const newsArticles = [
 const storeItems = [
   {
     href: "https://store.rockstargames.com/new-arrivals",
-    img: "./Rockstar Games_files/5rYP4eyaMRDIezacQuWzlb.gif",
+    img: "/Rockstar Games_files/5rYP4eyaMRDIezacQuWzlb.gif",
     alt: "Gif of Rockstar merch including enamel pins, crewnecks, and screenshot tees.",
     label: "Shop New Arrivals",
     gridArea: "a",
   },
   {
     href: "https://store.rockstargames.com/search?sort=date.desc&subcategories%5Ball%5D=apparel&title=Apparel",
-    img: "./Rockstar Games_files/1000x333a10tKOiIRtLn2bBf5.jpg",
+    img: "/Rockstar Games_files/1000x333a10tKOiIRtLn2bBf5.jpg",
     alt: "Midnight Club Screenshot Tee.",
     label: "Shop Apparel",
     gridArea: "b",
   },
   {
     href: "https://store.rockstargames.com/search?sort=date.desc&subcategories%5Ball%5D=collectible&categories%5Ball%5D=merch",
-    img: "./Rockstar Games_files/4x3azUu3EmaB9oKJnBQA.jpg",
+    img: "/Rockstar Games_files/4x3azUu3EmaB9oKJnBQA.jpg",
     alt: "Enamel pin of a pink razor.",
     label: "Shop Collectibles",
     gridArea: "c",
   },
   {
     href: "https://store.rockstargames.com/search?sort=date.desc&subcategories%5Ball%5D=caps&title=Caps",
-    img: "./Rockstar Games_files/4x3au8wC1M1jXmXlttq5.jpg",
+    img: "/Rockstar Games_files/4x3au8wC1M1jXmXlttq5.jpg",
     alt: "The Rockstar Games Logo Baggu bag.",
     label: "Shop Accessories",
     gridArea: "d",
@@ -531,7 +531,7 @@ function NewsSection() {
 function GamesVideoSection() {
   const games = [
     {
-      logo: "./Rockstar Games_files/4QSW0TY5u6qryUUFxEc22K.svg",
+      logo: "/Rockstar Games_files/4QSW0TY5u6qryUUFxEc22K.svg",
       logoAlt: "GTA Online",
       logoW: 240, logoH: 237,
       videoSrc: "https://media-rockstargames-com.akamaized.net/ctfassets/4zDHoq9sdF78RNS2ghRF7v.mp4",
@@ -540,17 +540,17 @@ function GamesVideoSection() {
       description: "Explore GTA Online, a dynamic world for up to 30 players, featuring all updates and content since launch, playable solo or with friends.",
       learnHref: "https://www.rockstargames.com/gta-online",
       platforms: [
-        { img: "./Rockstar Games_files/PS5_Logo_KO.svg", w: 149, h: 32 },
-        { img: "./Rockstar Games_files/PS4_Logo_Full_KO.svg", w: 153, h: 32 },
-        { img: "./Rockstar Games_files/XBSXS_Horz_White.svg", w: 253, h: 32 },
-        { img: "./Rockstar Games_files/XB1_Horz_KO_White.svg", w: 161, h: 32 },
-        { img: "./Rockstar Games_files/pc.svg", w: 40, h: 32 },
+        { img: "/Rockstar Games_files/PS5_Logo_KO.svg", w: 149, h: 32 },
+        { img: "/Rockstar Games_files/PS4_Logo_Full_KO.svg", w: 153, h: 32 },
+        { img: "/Rockstar Games_files/XBSXS_Horz_White.svg", w: 253, h: 32 },
+        { img: "/Rockstar Games_files/XB1_Horz_KO_White.svg", w: 161, h: 32 },
+        { img: "/Rockstar Games_files/pc.svg", w: 40, h: 32 },
       ],
       cards: [
-        { href: "https://www.rockstargames.com/gta-plus", img: "./Rockstar Games_files/25sJWjQ2ylc7CBbgMETkEB.jpg", desc: "The premium Membership for GTA Online players.", btn: "Learn More" },
-        { href: "https://www.rockstargames.com/gta-online/license-plates", img: "./Rockstar Games_files/6nY4AtY7bUdS4cVwNpxTQk.jpg", desc: "Create your own personalized license plates.", btn: "Create Now" },
-        { href: "https://www.rockstargames.com/?view=gta-online-a-safehouse-in-the-hills-trailer", img: "./Rockstar Games_files/2j1NNlENKPDLPAbLfxsBEA.jpg", desc: "A Safehouse in the Hills", btn: "Watch Trailer" },
-        { href: "https://www.rockstargames.com/gta-online/career-progress", img: "./Rockstar Games_files/48ERQJQeRmd5938L6yZnl3.jpg", desc: "See all the challenges you've completed in your GTA Online Career.", btn: "View Progress" },
+        { href: "https://www.rockstargames.com/gta-plus", img: "/Rockstar Games_files/25sJWjQ2ylc7CBbgMETkEB.jpg", desc: "The premium Membership for GTA Online players.", btn: "Learn More" },
+        { href: "https://www.rockstargames.com/gta-online/license-plates", img: "/Rockstar Games_files/6nY4AtY7bUdS4cVwNpxTQk.jpg", desc: "Create your own personalized license plates.", btn: "Create Now" },
+        { href: "https://www.rockstargames.com/?view=gta-online-a-safehouse-in-the-hills-trailer", img: "/Rockstar Games_files/2j1NNlENKPDLPAbLfxsBEA.jpg", desc: "A Safehouse in the Hills", btn: "Watch Trailer" },
+        { href: "https://www.rockstargames.com/gta-online/career-progress", img: "/Rockstar Games_files/48ERQJQeRmd5938L6yZnl3.jpg", desc: "See all the challenges you've completed in your GTA Online Career.", btn: "View Progress" },
       ],
     },
   ];
@@ -674,7 +674,7 @@ function NewsletterSection() {
   return (
     <section style={{ background: "#111", padding: "80px 24px", textAlign: "center" }}>
       <div style={{ maxWidth: "600px", margin: "0 auto" }}>
-        <img src="./Rockstar Games_files/4FiUgB9PjcXtphZyRQ5kEg.svg" alt="Rockstar Games" width={300} style={{ display: "block", margin: "0 auto 32px", opacity: 0.9 }} />
+        <img src="/Rockstar Games_files/4FiUgB9PjcXtphZyRQ5kEg.svg" alt="Rockstar Games" width={300} style={{ display: "block", margin: "0 auto 32px", opacity: 0.9 }} />
         <h3 style={{ color: "white", fontFamily: "sans-serif", fontSize: "24px", fontWeight: "700", marginBottom: "16px" }}>
           Subscribe to the Newsletter
         </h3>
@@ -702,7 +702,7 @@ function SupportSection() {
     }}>
       <div style={{ maxWidth: "500px", margin: "0 auto" }}>
         <div style={{ marginBottom: "20px" }}>
-          <img src="./Rockstar Games_files/def13a31001678085d3deddd9381ae73.svg" alt="Support" style={{ height: "60px" }} />
+          <img src="/Rockstar Games_files/def13a31001678085d3deddd9381ae73.svg" alt="Support" style={{ height: "60px" }} />
         </div>
         <p style={{ color: "rgba(255,255,255,0.7)", fontFamily: "sans-serif", fontSize: "15px", lineHeight: "1.6", marginBottom: "28px" }}>
           Get help with issues, browse common solutions, view service status updates, and more.
