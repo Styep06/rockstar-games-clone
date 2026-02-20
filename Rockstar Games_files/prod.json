@@ -1,0 +1,130 @@
+{
+    "microFrontends": {
+        "@rockstargames/modules-core-gif-viewer": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-gif-viewer/13.0.1/f7d9beb2537b71319cc716464864ae72d6643d06cbe10759aac4c2483c994d6d/remote-entry.js",
+                "metadata": {
+                    "version": "13.0.1",
+                    "gitHead": "ef44e52b4704cd4a3d34580161b065e324d8fd72"
+                }
+            }
+        ],
+        "@rockstargames/modules-core-newswire-article": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-newswire-article/14.0.1/794da9d82a3cc88bec3f33b02a3945d84a8f43e71d7b4cc81dc1ac33009dd400/remote-entry.js",
+                "metadata": {
+                    "version": "14.0.1",
+                    "gitHead": "ef44e52b4704cd4a3d34580161b065e324d8fd72"
+                }
+            }
+        ],
+        "@rockstargames/modules-core-videoplayer": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-videoplayer/14.0.1/ea2fc4ece2d9bce7c178caf353e7faa4c832f8ba995db2cd93e672e094114c83/remote-entry.js",
+                "metadata": {
+                    "version": "14.0.1",
+                    "gitHead": "ef44e52b4704cd4a3d34580161b065e324d8fd72"
+                }
+            }
+        ],
+        "@rockstargames/modules-gtao-license-plate": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-gtao-license-plate/15.0.1/4dd946a7107d1ee5b8ac071fe11fa4e4119e345af78a89585a20d96aeabd6229/remote-entry.js",
+                "metadata": {
+                    "version": "15.0.1",
+                    "gitHead": "ef44e52b4704cd4a3d34580161b065e324d8fd72"
+                }
+            }
+        ],
+        "@rockstargames/sites-careers": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-careers/14.0.1/2ea9b00dcef0ec1b88783b601b61b77e264641a1ad357651325081eb4b14590a/remote-entry.js",
+                "metadata": {
+                    "version": "14.0.1",
+                    "gitHead": "ef44e52b4704cd4a3d34580161b065e324d8fd72"
+                }
+            }
+        ],
+        "@rockstargames/sites-gta-gen9": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-gta-gen9/15.0.1/6c230cbc09ba9e16c583dad5a07e19bc96dafe2ccb386af6df43ab22177f8380/remote-entry.js",
+                "metadata": {
+                    "version": "15.0.1",
+                    "gitHead": "ef44e52b4704cd4a3d34580161b065e324d8fd72"
+                }
+            }
+        ],
+        "@rockstargames/sites-gta-trilogy": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-gta-trilogy/15.0.1/16c3df861c79c0ac420a86fe1e03bcd9c4dcd797b668cbe72fb06de07cda0542/remote-entry.js",
+                "metadata": {
+                    "version": "15.0.1",
+                    "gitHead": "ef44e52b4704cd4a3d34580161b065e324d8fd72"
+                }
+            }
+        ],
+        "@rockstargames/sites-gta-tv": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-gta-tv/13.0.1/6fd41632012de32d0ae5bb3bc9b237de9a8e03d8b3a5aef8c0b3eb27b3b5f07f/remote-entry.js",
+                "metadata": {
+                    "version": "13.0.1",
+                    "gitHead": "ef44e52b4704cd4a3d34580161b065e324d8fd72"
+                }
+            }
+        ],
+        "@rockstargames/sites-legacy": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-legacy/14.0.1/742c2f4192f2ad0966c70aee44d95d8af7acaefeb99d5665194af4655cb5828f/remote-entry.js",
+                "metadata": {
+                    "version": "14.0.1",
+                    "gitHead": "ef44e52b4704cd4a3d34580161b065e324d8fd72"
+                }
+            }
+        ],
+        "@rockstargames/sites-red-dead-online": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-red-dead-online/14.0.1/ba98a49475113b2546028650e83c4ff70ad9995080c88c803f752a8e972ce7a9/remote-entry.js",
+                "metadata": {
+                    "version": "14.0.1",
+                    "gitHead": "ef44e52b4704cd4a3d34580161b065e324d8fd72"
+                }
+            }
+        ],
+        "@rockstargames/sites-rockstar-tv": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-rockstar-tv/13.0.1/ad8193a35d49bb57d726d3276044b5714c71da7d0a51a5f15cf48e071d439297/remote-entry.js",
+                "metadata": {
+                    "version": "13.0.1",
+                    "gitHead": "ef44e52b4704cd4a3d34580161b065e324d8fd72"
+                }
+            }
+        ],
+        "@rockstargames/sites-rockstargames": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-rockstargames/16.0.1/57eeb5cf7bf747856a773249e5d9fa77d99fd63c17e49123cc0b30294ae4b073/remote-entry.js",
+                "metadata": {
+                    "version": "16.0.1",
+                    "gitHead": "ef44e52b4704cd4a3d34580161b065e324d8fd72"
+                }
+            }
+        ],
+        "@rockstargames/sites-red-dead-redemption-2": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-red-dead-redemption-2/14.0.1/d3e28c7668a070965d9d40d13ee481088131539d6e065e4a0806bb968c1bce90/remote-entry.js",
+                "metadata": {
+                    "version": "14.0.1",
+                    "gitHead": "ef44e52b4704cd4a3d34580161b065e324d8fd72"
+                }
+            }
+        ],
+        "@rockstargames/sites-gta": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-gta/12.0.1/70a058f4051c98fed8d8561d417d0c7ba3246cb3077d188ffca964abfc062d1e/remote-entry.js",
+                "metadata": {
+                    "version": "12.0.1",
+                    "gitHead": "251099fa8ce011eb4cb9363e4bfaf0c9d1c6e07d"
+                }
+            }
+        ]
+    }
+}
